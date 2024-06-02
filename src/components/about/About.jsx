@@ -21,23 +21,23 @@ const About = () => {
             <article className='about__card'>
               <FaAward className='about__icon'/>
               <h5>Experience</h5>
-              <small>Pre-Final Year at NIT Raipur</small>
+              <small>Final Year at NIT Raipur</small>
             </article>
             <article className='about__card'>
               <FiUsers className='about__icon'/>
               <h5>Connections</h5>
-              <small>400+ linkedin connections</small>
+              <small>800+ linkedin connections</small>
             </article>
             <article className='about__card'>
               <VscFolderLibrary className='about__icon'/>
               <h5>Projects</h5>
-              <small>5-10 Projects Completed</small>
+              <small>20-30 Projects Completed</small>
             </article>
           </div>
           <p>
             I am a student of National Institute Of Technology, Raipur currently pursuing Bachelor's in Technology from Information Technnology branch.
-            I want to become an engineer in the Software Development Sector. Currently trying to hold a grip over learning Data Structures and Algorithms in C++ language and 
-            also having an interest in The Frontend-Web Development. I am also a great fan of sports including cricket and football. My hobby is playing football and listening to some good music.
+            I aspire to become a Software Development Engineer. Currently I am a Knight at Leetcode and a 3-star coder at Codechef. On the development side,
+            I am familiar with the MERN-Stack(MongoDB, ExpressJs, Reactjs and NodeJs) as a Full-Stack Web Developer. I am also a great fan of sports including cricket and football. My hobby is playing football and listening to some good music.
           </p>
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>

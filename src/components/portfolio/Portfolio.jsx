@@ -1,11 +1,11 @@
 import React from 'react'
 import './Portfolio.css'
-import IMG1 from '../../assets/portfolio1.jpg'
-import IMG2 from '../../assets/portfolio2.jpg'
-import IMG3 from '../../assets/portfolio3.jpg'
-import IMG4 from '../../assets/portfolio4.jpg'
-import IMG5 from '../../assets/portfolio5.png'
-import IMG6 from '../../assets/portfolio6.jpg'
+import IMG1 from '../../assets/portfolio11.jpg'
+import IMG2 from '../../assets/portfolio12.jpg'
+import IMG3 from '../../assets/portfolio13.jpg'
+import IMG4 from '../../assets/portfolio14.jpg'
+import IMG5 from '../../assets/portfolio15.jpg'
+import IMG6 from '../../assets/portfolio16.jpg'
 
 
 const Portfolio = () => {
@@ -18,60 +18,78 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={IMG1} alt="img1" />
           </div>
-          <h3>Snake Game</h3>
+          
           <div className="portfolio__item-cta">
-          <a href="https://github.com/Saaraansh10/Snake-Game" className='btn' target='_blank'>Github</a>
-          <a href="https://saaraansh10.github.io/Snake-Game/" className='btn btn-primary' target='_blank'>Live Demo</a>
+          <h3>Study-Notion Website</h3>
+          <div className="pgl">
+          <a href="https://github.com/Saaraansh10/Studynotion-Website" className='btn' target='_blank' rel="noreferrer">Github</a>
+          <a href="https://studynotion-website-5f95.vercel.app/" className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
+          </div>
         </div>
         </article>
         <article className='portfolio__item'>
           <div className="portfolio__item-image">
             <img src={IMG2} alt="img2" />
           </div>
-          <h3>Action Game</h3>
+
           <div className="portfolio__item-cta">
-          <a href="https://github.com/Saaraansh10/Action-Game" className='btn' target='_blank'>Github</a>
-          <a href="https://saaraansh10.github.io/Action-Game/" className='btn btn-primary' target='_blank'>Live Demo</a>
+          <h3>Razorpay Website Clone</h3>
+          <div className="pgl">
+          <a href="https://github.com/Saaraansh10/Razorpay-Website-Clone" className='btn' target='_blank' rel="noreferrer">Github</a>
+          <a href="https://razorpay-website-clone-td3r-93l0d9otg.vercel.app/" className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
+          </div>
           </div>
         </article>
         <article className='portfolio__item'>
           <div className="portfolio__item-image">
             <img src={IMG4} alt="img4" />
           </div>
-          <h3>Tic-Tac-Toe Game</h3>
+
           <div className="portfolio__item-cta">
-          <a href="https://github.com/Saaraansh10/Tic-Tac-Toe-Game" className='btn' target='_blank'>Github</a>
-          <a href="https://saaraansh10.github.io/Tic-Tac-Toe-Game/" className='btn btn-primary' target='_blank'>Live Demo</a>
+          <h3>Password Generator App</h3>
+          <div className="pgl">
+          <a href="https://github.com/Saaraansh10/Password-Generator" className='btn' target='_blank' rel="noreferrer">Github</a>
+          <a href="https://saaraansh10.github.io/Password-Generator/" className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
+          </div>
           </div>
         </article>
         <article className='portfolio__item'>
           <div className="portfolio__item-image">
             <img src={IMG3} alt="img3" />
           </div>
-          <h3>Analog Clock</h3>
+
           <div className="portfolio__item-cta">
-          <a href="https://github.com/Saaraansh10/Analog-Clock" className='btn' target='_blank'>Github</a>
-          <a href="https://saaraansh10.github.io/Analog-Clock/" className='btn btn-primary' target='_blank'>Live Demo</a>
+          <h3>Dev-Detective App</h3>
+          <div className="pgl">
+          <a href="https://github.com/Saaraansh10/Dev-Detective-Project" className='btn' target='_blank' rel="noreferrer">Github</a>
+          <a href="https://saaraansh10.github.io/Dev-Detective-Project/" className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
+          </div>
           </div>
         </article>
         <article className='portfolio__item'>
           <div className="portfolio__item-image">
             <img src={IMG5} alt="img5" />
           </div>
-          <h3>Portfolio Web using HTML/CSS</h3>
+
           <div className="portfolio__item-cta">
-          <a href="https://github.com/Saaraansh10/saaraanshmishraportfolio" className='btn' target='_blank'>Github</a>
-          <a href="https://saaraansh10.github.io/saaraanshmishraportfolio/" className='btn btn-primary' target='_blank'>Live Demo</a>
+          <h3>Shopping Cart App</h3>
+          <div className="pgl">
+          <a href="https://github.com/Saaraansh10/Shopping-Cart-App" className='btn' target='_blank' rel="noreferrer">Github</a>
+          <a href="https://shopping-cart-app-seven-kappa.vercel.app/" className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
+          </div>
           </div>
         </article>
         <article className='portfolio__item'>
           <div className="portfolio__item-image">
             <img src={IMG6} alt="img6" />
           </div>
-          <h3>Portfolio Web Using ReactJs</h3>
+
           <div className="portfolio__item-cta">
-          <a href="" className='btn' target='_blank'>Github</a>
-          <a href="" className='btn btn-primary' target='_blank'>Live Demo</a>
+          <h3>Weather App</h3>
+          <div className="pgl">
+          <a href="https://github.com/Saaraansh10/Weather-App" className='btn' target='_blank' rel="noreferrer">Github</a>
+          <a href="https://saaraansh10.github.io/Weather-App/" className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
+          </div>
           </div>
         </article>
       </div>

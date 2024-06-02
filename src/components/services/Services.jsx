@@ -69,7 +69,7 @@ const Services = () => {
                             <img src={tech} alt="tech-img" className='e-img'/>
                             </div>
                     <div className="e-desc">
-                        Currently I am a student of National Institute of Technology, Raipur pursuing Bachelor's of Technology in Information Technology. I have a CPI of 9.03 across the first 4 semesters of college. Eagerly looking forward to building my career in the Software Development Sector.
+                        Currently I am a student of National Institute of Technology, Raipur pursuing Bachelor's of Technology in Information Technology. I have a CPI of 9.13 aggregated after 6 semesters of college. Eagerly looking forward to building my career in the Software Development Sector.
                     </div>
                     </div>
                     </div>
