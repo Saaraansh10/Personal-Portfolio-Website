@@ -11,8 +11,8 @@ This app serves as a platform to showcase education, skills, experiences, projec
 - ReactJs
 
 # Links
-- **Live Link**: View Live App
-- **GitHub Repo**: View on GitHub
+- **Live Link**: https://personal-portfolio-website-puce.vercel.app/
+- **GitHub Repo**: https://github.com/Saaraansh10/Personal-Portfolio-Website
 
 -- Feel free to explore and use this repository to create your own personal portfolio application.
 
