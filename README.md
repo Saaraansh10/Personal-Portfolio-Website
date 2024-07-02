@@ -11,7 +11,7 @@ This app serves as a platform to showcase education, skills, experiences, projec
 - ReactJs
 
 # Links
-- **Live Link**: https://personal-portfolio-website-id58uay3g-saaraansh-mishras-projects.vercel.app/
+- **Live Link**: https://personal-portfolio-website-7ph6.vercel.app/
 - **GitHub Repo**: https://github.com/Saaraansh10/Personal-Portfolio-Website
 
 -- Feel free to explore and use this repository to create your own personal portfolio application.
